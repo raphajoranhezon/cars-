@@ -1,0 +1,1 @@
+The program takes in a car (year,model,make) inputed by the user and adds it to a list My_old_cars. It uses the -eq, equality function, for the while loop. it uses case statements to allow the user a choice of action. 
