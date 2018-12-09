@@ -22,11 +22,10 @@ do
 		;;
 		2) sort My_old_cars 
 		;;
-		3)continue=0 
+		3)echo"Goodbye"
+		continue=0 
 		;;
 esac
-
-echo "Goodbye"
 
 done  
 
